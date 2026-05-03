@@ -206,13 +206,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [ ] **Higher-order epistasis**: Beyond pairwise interactions
 - [ ] **Real-time analysis**: Optimize for faster inference
 
-## 📞 Support
-
-- **Issues**: [GitHub Issues](https://github.com/YOUR_USERNAME/esm2-epistasis-pipeline/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/YOUR_USERNAME/esm2-epistasis-pipeline/discussions)
-- **Email**: your.email@example.com
-
----
 
 **⭐ Star this repo if it helped your research!**
 
