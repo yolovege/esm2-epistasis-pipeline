@@ -1,0 +1,19 @@
+# Core dependencies for ESM2 Epistasis Pipeline
+torch>=2.0.0
+transformers>=4.30.0
+numpy>=1.21.0
+pandas>=1.3.0
+matplotlib>=3.5.0
+seaborn>=0.11.0
+tqdm>=4.62.0
+scipy>=1.7.0
+
+# Optional but recommended
+jupyter>=1.0.0
+ipykernel>=6.0.0
+ipywidgets>=7.6.0
+
+# For development (optional)
+black>=22.0.0
+flake8>=4.0.0
+pre-commit>=2.15.0
